@@ -1,0 +1,15 @@
+{
+  "demoOnly": true,
+  "records": [
+    {
+      "productId": "SKU-1001",
+      "storeId": "STORE-DEL-01",
+      "quantity": 8
+    },
+    {
+      "productId": "SKU-1002",
+      "storeId": "STORE-DEL-01",
+      "quantity": 0
+    }
+  ]
+}
